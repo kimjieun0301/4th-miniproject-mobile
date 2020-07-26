@@ -1,5 +1,8 @@
 # 4th-miniproject-mobile
 
+![정보구조설계](./img/structure.jpeg)
+
+
 기능 정의
    - 공지사항 (가옥)
      - 글 검색
